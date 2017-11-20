@@ -1,0 +1,14 @@
+{
+  "name": "speakerrecognitionapilib",
+  "version": "1.0.0",
+  "description": "TODO: Add a description",
+  "main": "./lib/index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "APIMATIC SDK Generator",
+  "dependencies": {
+    "request": "^2.55.0",
+    "mocha": "^3.1.2",
+    "chai": "^3.5.0"
+  }
+}
